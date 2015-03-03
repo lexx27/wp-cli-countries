@@ -6,3 +6,8 @@ Import countries to custom taxonomy using wp-cli via the command line
 - Run the script
 
 Warning: The script just deletes all the taxonomy terms and import the countries...
+
+# Credits
+
+Countries were taken from https://github.com/umpirsky/country-list
+
